@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 
 const imagesInfo = [
   {
@@ -109,3 +109,4 @@ export default class SocialMedia extends React.Component {
     );
   }
 }
+*/
